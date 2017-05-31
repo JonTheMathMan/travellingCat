@@ -1,1 +1,1 @@
-# travellingCat
+This is Travelling Cat a game based on the travelling salesman problem. Travel around the map and eat all the mice, eating the mouse where you started last. You have a lazy cat so try to use the path that requires the fewest steps.
